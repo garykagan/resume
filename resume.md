@@ -1,11 +1,9 @@
-<span>2</span>
-
 **Gary Kagan**\
 Software Engineer
 
-**(772) 643-244\
-507 11th Ave\
-Rear 1\
+**(772) 643-244
+507 11th Ave
+Rear 1
 Belmar, NJ 07719**
 
 OBJECTIVE
@@ -19,29 +17,23 @@ TECHNICAL SKILLS
 **Languages** Objective-c, Swift, C, Ruby, PHP, JSON, XML, CSS, SCSS,
 JavaScript, CoffeeScript, Bash, SQL
 
-<span>2</span>
-
-**Frameworks**\
+**Frameworks**
 Cocoa Touch, Ruby on Rails, Bootstrap
 
-**Platforms**\
+**Platforms**
 iOS, watchOS, Linux
 
-<span>2</span>
-
-**Source Control**\
+**Source Control**
 Git, Mercurial, Subversion
 
-**Tools**\
+**Tools**
 Vim, Xcode, Sublime, Vagrant, Ansible, Capistrano, Chef
 
 EXPERIENCE
 ==========
 
-=
-
-= <span>**Full Stack Software Engineer**</span> Hybrid Healthcare
-Communications August 2014 - Present\
+<span>**Full Stack Software Engineer**</span> Hybrid Healthcare
+Communications August 2014 - Present
 Red Bank, NJ
 
 Developed mobile and web applications for external clients in the
@@ -66,10 +58,8 @@ Projects
 
     -   Git source control
 
-=
-
-= <span>**Software Engineer**</span> CyanLine LLC January 2013 - August
-2014\
+<span>**Software Engineer**</span> CyanLine LLC January 2013 - August
+2014
 Eatontown, NJ
 
 Developed embedded and live bootable linux systems, developed update and
@@ -101,10 +91,9 @@ Projects
 
 -   Open source contributions (https://github.com/cyanline)
 
-=
 
-= <span>**Project Manager**</span> Kane Brewery Management System
-September 2013 - May 2014\
+<span>**Project Manager**</span> Kane Brewery Management System
+September 2013 - May 2014
 Ocean, NJ
 
 Gathered requirements, designed and developed a brewery management
@@ -115,9 +104,7 @@ used on a daily basis to track brewery operations and prepare taxes.
 
 -   Managed a team of developers in person and remote
 
-=
-
-= <span>**Co-Founder**</span> TB Software LLC September 2013 - Present\
+<span>**Co-Founder**</span> TB Software LLC September 2013 - Present
 Belmar, NJ
 
 Co-Founded a software consulting company specializing in mobile and web
@@ -133,10 +120,8 @@ Projects
     -   Responsible for managing development team, interacting with the
         client and design
 
-=
-
-= <span>**Software Prototype Developer**</span> Rapid Response Institute
-September 2010 - May 2014\
+<span>**Software Prototype Developer**</span> Rapid Response Institute
+September 2010 - May 2014
 West Long Branch, NJ
 
 Gathered requirements, designed and developed software prototypes under
@@ -168,10 +153,8 @@ Projects
 
     -   Developed under contract with Lockheed Martin
 
-=
-
-= <span>**Mobile Software Developer**</span> Studio Symposium April 2011
-- December 2011\
+<span>**Mobile Software Developer**</span> Studio Symposium April 2011
+- December 2011
 Point Pleasant, NJ
 
 Gathered requirements, designed and developed mobile software for
@@ -191,8 +174,8 @@ Projects
 EDUCATION
 =========
 
-Monmouth University, West Long Branch, NJ\
-Bachelor of Science, Software Engineering, May 2015\
+Monmouth University, West Long Branch, NJ
+Bachelor of Science, Software Engineering, May 2015
 
 INTERESTS
 =========
