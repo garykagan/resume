@@ -1,9 +1,9 @@
-**Gary Kagan**\
+**Gary Kagan**
 Software Engineer
 
-**(772) 643-244
-507 11th Ave
-Rear 1
+**(772) 643-2443  
+507 11th Ave  
+Rear 1  
 Belmar, NJ 07719**
 
 OBJECTIVE
