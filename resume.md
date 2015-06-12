@@ -174,7 +174,7 @@ EDUCATION
 =========
 
 Monmouth University, West Long Branch, NJ
-Bachelor of Science, Software Engineering, May 2015
+Bachelor of Science, Software Engineering
 
 INTERESTS
 =========
@@ -191,7 +191,7 @@ INTERESTS
 
     -   RFID door entry system
 
--   Monmouth University Outdoors Club
+-   Hiking and camping
 
 -   Cooking
 
