@@ -9,7 +9,7 @@ Belmar, NJ 07719**
 OBJECTIVE
 =========
 
-Create software that people around the world use daily.
+Create software that makes a positive impact in the lives of people around the world.
 
 TECHNICAL SKILLS
 ================
