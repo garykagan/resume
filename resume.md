@@ -9,7 +9,7 @@ Belmar, NJ 07719**
 OBJECTIVE
 =========
 
-Create software that makes a positive impact in the lives of people around the world.
+Create mobile software that makes a positive impact in the lives of people around the world.
 
 TECHNICAL SKILLS
 ================
@@ -27,7 +27,7 @@ iOS, watchOS, Linux
 Git, Mercurial, Subversion
 
 **Tools**
-Vim, Xcode, Sublime, Vagrant, Ansible, Capistrano, Chef
+Vim, Xcode, Sublime, Vagrant, Ansible, Capistrano, Puppet
 
 EXPERIENCE
 ==========
