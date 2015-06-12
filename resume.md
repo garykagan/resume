@@ -8,7 +8,7 @@ Belmar, NJ 07719**
 OBJECTIVE
 =========
 
-Create mobile software that makes a positive impact in the lives of people around the world.
+Create mobile software that has a positive impact in the lives of people around the world.
 
 TECHNICAL SKILLS
 ================
