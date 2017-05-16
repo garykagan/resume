@@ -1,13 +1,13 @@
-% LaTeX file for resume 
+% LaTeX file for resume
 % This file uses the resume document class (res.cls)
 
-\documentclass{res} 
+\documentclass{res}
 \usepackage{multicol}
 %\usepackage{helvetica} % uses helvetica postscript font (download helvetica.sty)
-%\usepackage{newcent}   % uses new century schoolbook postscript font 
-\setlength{\textheight}{9.5in} % increase text height to fit on 1-page 
+%\usepackage{newcent}   % uses new century schoolbook postscript font
+\setlength{\textheight}{9.5in} % increase text height to fit on 1-page
 
-\begin{document} 
+\begin{document}
 \begin{multicols}{3}
 \begin{flushleft}
 Gary@kaganmail.com\\[0.3em]
@@ -20,73 +20,83 @@ Software Engineer
 \end{center}
 \columnbreak
 \begin{flushright}
-507 11th Ave\\
-Rear 1\\
-Belmar, NJ 07719
+50 Chelsea Ave\\
+Apt. 210\\
+Long Branch, NJ 07740
 \end{flushright}
 \end{multicols}
 
 
 \begin{resume}
-\section{OBJECTIVE}          
-    Create software that has a positive impact in the lives of people around the world.
+\section{OBJECTIVE}
+    Create software that has a positive impact on the lives of billions of people around the world.
 
 \section{TECHNICAL SKILLS}
     \textbf{Languages}\\
-    Objective-c, Swift, C, Ruby, Bash, CSS, SCSS, JavaScript, CoffeeScript, SQL, PHP, JSON, XML
+    Objective-c, Swift, C, Ruby, Bash, JSON, XML
 
     \begin{multicols}{2}
     \begin{flushleft}
     \textbf{Frameworks}\\
-    Cocoa Touch, Ruby on Rails, Bootstrap
+    Cocoa Touch, Ruby on Rails
     \end{flushleft}
     \columnbreak
     \textbf{Platforms}\\
-    iOS, watchOS, Linux
-    \end{multicols}
-
-    \begin{multicols}{2}
-    \begin{flushleft}
-    \textbf{Source Control}\\
-    Git, Mercurial, Subversion
-    \end{flushleft}
-    \columnbreak
-    \textbf{Tools}\\
-    Vim, Xcode, Sublime, Vagrant, Ansible, Capistrano, Puppet
+    iOS, tvOS, watchOS, Linux
     \end{multicols}
 
 
 \section{EXPERIENCE}
+  \begin{tabbing}
+  \hspace{2.3in}\= \hspace{2.6in}\= \kill % set up two tab positions
+   {\bf Senior iOS Engineer} \>BAMTech (Formerly MLBAM)     \>December 2015 - Present\\
+                            \>New York, NY
+  \end{tabbing}\vspace{-20pt}      % suppress blank line after tabbing
+    Lead engineer on the NHL iOS and tvOS app.
+
+   Responsibilities
+   \begin{itemize}
+       \item Architected and implemented all major features in the NHL app
+       \item Served as a mentor to team members
+       \item Worked with services teams to define and implement APIs
+       \item Managed a team of engineers working on the NHL app
+       \item Worked with product owners to define the scope of releases and manage expectations for those releases
+       \item Provided high level product estimates as well as story level estimates for new feature work
+       \item Successfully worked against aggressive and immovable deadlines
+       \item Managed the development of several smaller iOS apps
+       \item Contributed to build tools used by the iOS and Android team at BAM
+       \item Contributed to shared libraries used by all iOS apps at BAM
+   \end{itemize}
+
+  \begin{tabbing}
+  \hspace{2.3in}\= \hspace{2.6in}\= \kill % set up two tab positions
+   {\bf Lead iOS Engineer} \>Dittach     \>July 2015 - December 2015\\
+                            \>New York, NY
+  \end{tabbing}\vspace{-20pt}      % suppress blank line after tabbing
+    Developed the iOS front end for an email attachment searching app.
+
+   Responsibilities
+   \begin{itemize}
+       \item Lead the development of the iOS app
+       \item Worked with backend team to define and implement APIs
+       \item Collaborated with the product and design teams to define the user experience
+   \end{itemize}
+  \newpage
    \begin{tabbing}
    \hspace{2.3in}\= \hspace{2.6in}\= \kill % set up two tab positions
-    {\bf Senior Software Engineer} \>Hybrid Healthcare Communications     \>August 2014 - Present\\
+    {\bf Senior Software Engineer} \>Hybrid Healthcare Communications     \>August 2014 - July 2015\\
                              \>Red Bank, NJ
    \end{tabbing}\vspace{-20pt}      % suppress blank line after tabbing
     Developed mobile and web applications for external clients in the pharmaceutical industry.
     Worked on implementing automated server deployment, provisioning and backup systems for external and internal projects.
     Setup and maintained internal development tools.
 
-    Projects
-    \begin{itemize}
-        \item Fortified Home (iPad)
-        \begin{itemize}
-          \item App to interactively teach home owners how to fortify their home against natural distasters
-        \end{itemize}
-        \item All other projects were proprietary and confidential but included use of the following technologies
-        \begin{itemize}
-            \item iOS Applications
-            \item JSON APIs developed in Ruby on Rails
-            \item Web application developed in Ruby on Rails, CoffeeScript, SCSS
-            \item Migrated an existing Puppet provisioning and capistrano deployment stack to Ansible
-        \end{itemize}
-    \end{itemize}
-
    \begin{tabbing}
    \hspace{2.3in}\= \hspace{2.6in}\= \kill % set up two tab positions
     {\bf Software Engineer} \>CyanLine LLC     \>January 2013 - August 2014\\
                              \>Eatontown, NJ
    \end{tabbing}\vspace{-20pt}      % suppress blank line after tabbing
-    Developed embedded and live bootable linux systems, 
+    Developed embedded and live bootable linux systems,
     developed update and patch delivery system,
     performed penetration and vulnerability testing,
     performed forensic hard drive analysis which was later used as evidence in court,
@@ -95,52 +105,9 @@ Belmar, NJ 07719
     Projects
     \begin{itemize}
         \item FDAS - Fast Disk Acquisition System (http://cyanline.com/fdas.php)
-        \begin{itemize}
-            \item Embedded Linux system Written in C, Bash, Javascript, HTML CSS
-            \item Responsible for maintaining existing code, developing new features and planning the future of FDAS
-            \item Used by government agencies and corporations around the world
-        \end{itemize}
         \item MiniDAS - Mini Disk Acquisition System (http://cyanline.com/minidas.php)
-        \begin{itemize}
-            \item Responsible for initial conception, maintaining, developing new features and deployment
-            \item Live bootable Linux system based on Kali Linux, Written in C, Bash, Javascript, HTML, CSS
-        \end{itemize}
         \item AP-Finder - Access Point Finder (http://cyanline.com/apfinder.php)
-        \item Internal Customer Support Website
-        \item Online Store
         \item Open source contributions (https://github.com/cyanline)
-        \item Blog contributions on the subject of iOS and OS X forensics (http://cyanline.com/blog.php)
-    \end{itemize}
-
-
-   \begin{tabbing}
-   \hspace{2.3in}\= \hspace{2.6in}\= \kill % set up two tab positions
-    {\bf Project Manager} \>Kane Brewery Management System     \>September 2013 - May 2014\\
-                             \>Ocean, NJ
-   \end{tabbing}\vspace{-20pt}      % suppress blank line after tabbing
-   Gathered requirements, designed and developed a brewery management system for Kane Brewing Company. The Kane brewery management system was used on a daily basis to track brewery operations and prepare taxes.
-
-    \begin{itemize}
-        \item Written in Ruby on Rails, CoffeeScript and SCSS
-        \item Managed a team of developers in person and remote
-    \end{itemize}
-
-
-   \begin{tabbing}
-   \hspace{2.3in}\= \hspace{2.6in}\= \kill % set up two tab positions
-    {\bf Co-Founder} \>TB Software LLC     \>September 2013 - Present\\
-                             \>Belmar, NJ
-   \end{tabbing}\vspace{-20pt}      % suppress blank line after tabbing
-    Co-Founded a software consulting company specializing in mobile and web development. 
-    Responsible for managing a distributed team of developers.
-
-    Projects
-    \begin{itemize}
-        \item Porsche 356 Registry (Ruby on Rails, HTML5, SCSS, CoffeeScript, PHP)
-        \begin{itemize}
-            \item Single sign on between the rails application and the existing phpBB forum
-            \item Responsible for managing development team, interacting with the client and design
-        \end{itemize}
     \end{itemize}
 
    \begin{tabbing}
@@ -153,62 +120,29 @@ Belmar, NJ 07719
     Projects
     \begin{itemize}
         \item E-Resource - RFID geolocation software (iPad, Web)
-        \begin{itemize}
-            \item Used to track emergency shelter personnel
-            \item Developed in Objective-C, PHP and MySQL
-        \end{itemize}
         \item Shelter Management Application (iOS, Android, Web)
-        \begin{itemize}
-            \item Enable state level emergency operations officials to effectively guide the general population to appropriate shelters.
-        \end{itemize}
-        \item XAPP (iOS)
-        \begin{itemize}
-            \item Dynamic XML form editor
-            \item used to send and receive messages using the CAP message protocol
-        \end{itemize}
-        \item DataShark HLA Adapter (Java OSGI Plugin)
-        \begin{itemize}
-            \item HLA adapter to interact with and inspect the state of the Aegis weapons system simulator
-            \item Developed under contract with Lockheed Martin
-        \end{itemize}
+        \item Dynamic XML Messaging app (iOS)
+        \item DataShark HLA Adapter for the Aegis Weapons System(Java OSGI Plugin)
     \end{itemize}
 
-\newpage
    \begin{tabbing}
    \hspace{2.3in}\= \hspace{2.6in}\= \kill % set up two tab positions
     {\bf Mobile Software Developer} \>Studio Symposium     \>April 2011 - December 2011\\
                              \>Point Pleasant, NJ
    \end{tabbing}\vspace{-20pt}      % suppress blank line after tabbing
-   Gathered requirements, designed and developed mobile software for clients. Helped develop Studio Symposiums software development process including internal documents and coding practices.
-
-    Projects
-    \begin{itemize}
-        \item Lucent Lockscreen (Android)
-        \item Happy Day Coloring Book (iPad)
-        \item Happy Day Bible Stories (iPad)
-        \item 365 Devotions (iPhone)
-    \end{itemize}
 
    \begin{tabbing}
    \hspace{2.3in}\= \hspace{2.6in}\= \kill % set up two tab positions
     {\bf Freelance Software Developer} \>Self Employed  \>August 2008 - May 2012\\
                              \>Sebastian, FL
    \end{tabbing}\vspace{-20pt}      % suppress blank line after tabbing
-   Gathered requirements, designed and developed mobile software for clients. 
 
-    Projects
-    \begin{itemize}
-      \item Rainbow Turf Products Coverage Calculator (iPhone)
-      \item Real estate listings for local real estate agents (iPhone)
-      \item Patient Print - Used by a local orthopedic surgeon to compose and print reports for patients (iOS)
-    \end{itemize}
-
-\section{EDUCATION}          
-    Monmouth University, West Long Branch, NJ  \\        
-    Bachelor of Science, Software Engineering   \\       
+\section{EDUCATION}
+    Monmouth University, West Long Branch, NJ  \\
+    Bachelor of Science, Software Engineering   \\
 
 
-\section{INTERESTS}          
+\section{INTERESTS}
     \begin{itemize}
         \item Football
             \begin{itemize}
@@ -227,9 +161,9 @@ Belmar, NJ 07719
             \item Explore where technology can push the culinary arts further than its been before
           \end{itemize}
     \end{itemize}
- 
 
-\section{HONORS AND AWARDS}          
+
+\section{HONORS AND AWARDS}
     \begin{itemize}
         \item 2013 Jersey Shore Comeback-A-Thon Winner
             \begin{itemize}
@@ -239,7 +173,7 @@ Belmar, NJ 07719
             \end{itemize}
         \item 2010 All Treasure Coast football team selection
     \end{itemize}
- 
- 
+
+
 \end{resume}
 \end{document}
